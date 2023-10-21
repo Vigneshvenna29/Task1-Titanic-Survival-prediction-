@@ -1,2 +1,2 @@
-# Task1-Titanic-Survival-prediction-
+# CodsoftTask1-Titanic-Survival-prediction-
 codsoftinternship task
